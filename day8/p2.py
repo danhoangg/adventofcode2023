@@ -1,12 +1,5 @@
 import math
 
-
-class node:
-    def __init__(self, left=None, right=None, value=None):
-        self.left = left
-        self.right = right
-        self.val - value
-
 lines = []
 
 with open('input.txt') as f:
